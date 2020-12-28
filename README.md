@@ -48,7 +48,7 @@ Program's output example:
     <img alt="Uls"
     title="Uls"
     src="https://github.com/yohrudkov/Uls/blob/main/resources/output.jpg?raw=true"
-    width="300">
+    width="400">
 </p>
 
 ### Compilation

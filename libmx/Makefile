@@ -24,4 +24,5 @@ uninstall: clean
 clean:
 	@rm -rf $(TMP_DIR)
 
+efwewe
 reinstall: uninstall all

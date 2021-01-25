@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static bool dev_or_not(t_list *current) {
     if (mx_st_point(current, 1)[0] == 'c'

@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static int add_total(char *full_path) {
     struct stat st;

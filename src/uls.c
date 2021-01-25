@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static void recursion(t_list *tmp, uint8_t flags, int *result) {
     mx_sort_file_dir(&tmp, true);

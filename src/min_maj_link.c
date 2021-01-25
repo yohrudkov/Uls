@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 void mx_link(char *path, char **name) {
     char buf[PATH_MAX + 1];

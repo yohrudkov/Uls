@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static int find_max_len(t_list **argv, bool flag) {
     int len = 0;

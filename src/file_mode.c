@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static char exstra_group(char **str) {
     ssize_t xattr = listxattr(*str, NULL, 0, XATTR_NOFOLLOW);

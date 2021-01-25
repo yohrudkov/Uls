@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 void mx_del_node(void *data) {
     mx_strdel(&((t_ls *)data)->file_mode);

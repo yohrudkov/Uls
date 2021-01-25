@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static void error(char ch) {
     fprintf(stderr, "uls: illegal option -- %c\n", ch);

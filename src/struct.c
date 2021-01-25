@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 char *mx_st_point(t_list *list, int index) {
     char *str = NULL;

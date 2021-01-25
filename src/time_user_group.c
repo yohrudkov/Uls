@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 void mx_user(t_list **argv, struct stat st) {
     struct passwd *pas = NULL;

@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static int add_space(t_list *argv, int index) {
     int count = 0;

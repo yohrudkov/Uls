@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../inc/header.h"
 
 static void swap(t_list **j) {
     void *swap = NULL;
